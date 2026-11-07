@@ -1,0 +1,17 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Imported resources
+*.import
+
+# Export files
+export.cfg
+export_presets.cfg
+
+# Mono-specific
+.mono/
+data_*/
+
+# System files
+.DS_Store
+Thumbs.db
